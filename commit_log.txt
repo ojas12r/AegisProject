@@ -13,3 +13,4 @@
 1|2025-11-01T13:43:34|add app router setup
 2|2025-11-02T09:15:43|create basic next.js layout with fonts
 3|2025-11-02T11:02:00|setup src directory structure
+4|2025-11-02T19:38:32|fix import paths in next.js
