@@ -16,3 +16,4 @@
 4|2025-11-02T19:38:32|fix import paths in next.js
 5|2025-11-02T21:43:42|setup folder structure for backend modules
 6|2025-11-03T09:47:56|add tailwind config and global styles
+7|2025-11-04T17:09:33|add .gitignore for python and node
