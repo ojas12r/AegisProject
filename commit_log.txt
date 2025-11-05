@@ -20,3 +20,4 @@
 8|2025-11-05T10:55:14|add requirements.txt with core dependencies
 9|2025-11-05T12:19:37|add globals.css base styles
 10|2025-11-05T13:33:42|project scaffold: next.js + fastapi setup
+11|2025-11-05T13:44:36|add ibm plex mono and syne font imports
