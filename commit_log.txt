@@ -22,3 +22,4 @@
 10|2025-11-05T13:33:42|project scaffold: next.js + fastapi setup
 11|2025-11-05T13:44:36|add ibm plex mono and syne font imports
 12|2025-11-07T11:40:27|setup tailwind custom color palette
+13|2025-11-07T11:56:29|setup eslint and typescript strict mode
