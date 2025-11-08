@@ -24,3 +24,4 @@
 12|2025-11-07T11:40:27|setup tailwind custom color palette
 13|2025-11-07T11:56:29|setup eslint and typescript strict mode
 14|2025-11-08T10:47:37|add vercel.json deployment config
+15|2025-11-08T14:42:12|add basic fastapi health endpoint
