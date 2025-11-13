@@ -31,3 +31,4 @@
 19|2025-11-12T15:31:20|configure cors middleware
 20|2025-11-12T16:23:25|configure tsconfig and next.config
 21|2025-11-12T18:24:48|configure path aliases in tsconfig
+22|2025-11-13T22:04:29|add basic readme
