@@ -36,3 +36,4 @@
 24|2025-11-14T15:35:17|configure environment variables
 25|2025-11-15T16:42:00|initial commit
 26|2025-11-16T11:04:32|add curl_cffi session for better compatibility
+27|2025-11-16T14:56:04|add period validation in api
