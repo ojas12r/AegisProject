@@ -40,3 +40,4 @@
 28|2025-11-17T10:42:21|add yfinance data fetcher module
 29|2025-11-19T13:48:26|implement ohlcv data normalization
 30|2025-11-19T14:46:37|handle delisted ticker errors gracefully
+31|2025-11-20T10:58:23|optimize cache key generation
