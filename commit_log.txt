@@ -47,3 +47,4 @@
 35|2025-11-22T21:59:38|add mock data fallback for testing
 36|2025-11-23T09:58:38|fix empty dataframe edge case
 37|2025-11-23T11:10:41|fix date parsing for different periods
+38|2025-11-23T11:12:21|fix column naming inconsistency
