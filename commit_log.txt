@@ -50,3 +50,4 @@
 38|2025-11-23T11:12:21|fix column naming inconsistency
 39|2025-11-23T14:23:29|add market data api endpoint
 40|2025-11-24T09:11:08|fix pandas deprecation warnings
+41|2025-11-24T09:14:24|add ticker data caching layer
