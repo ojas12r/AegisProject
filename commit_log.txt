@@ -52,3 +52,4 @@
 40|2025-11-24T09:11:08|fix pandas deprecation warnings
 41|2025-11-24T09:14:24|add ticker data caching layer
 42|2025-11-25T15:58:53|add retry logic for yahoo finance timeouts
+43|2025-11-28T14:08:50|add session management to data fetcher
