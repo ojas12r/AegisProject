@@ -54,3 +54,4 @@
 42|2025-11-25T15:58:53|add retry logic for yahoo finance timeouts
 43|2025-11-28T14:08:50|add session management to data fetcher
 44|2025-11-30T15:51:18|fix timezone stripping in pandas index
+45|2025-11-30T17:05:00|implement get_info method for company metadata
