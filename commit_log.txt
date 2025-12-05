@@ -60,3 +60,4 @@
 48|2025-12-02T16:18:26|fix user agent header for yahoo finance
 49|2025-12-02T20:59:01|implement async data fetching wrapper
 50|2025-12-04T11:23:48|add auto_adjust=true for split-adjusted prices
+51|2025-12-05T13:43:43|test data fetcher with aapl ticker
