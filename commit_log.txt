@@ -63,3 +63,4 @@
 51|2025-12-05T13:43:43|test data fetcher with aapl ticker
 52|2025-12-08T12:54:02|add volatility calculation (rolling std dev)
 53|2025-12-08T13:01:57|add vwap calculation
+54|2025-12-08T21:10:23|add simple moving averages (20,50,200)
