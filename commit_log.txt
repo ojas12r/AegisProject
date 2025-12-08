@@ -61,3 +61,4 @@
 49|2025-12-02T20:59:01|implement async data fetching wrapper
 50|2025-12-04T11:23:48|add auto_adjust=true for split-adjusted prices
 51|2025-12-05T13:43:43|test data fetcher with aapl ticker
+52|2025-12-08T12:54:02|add volatility calculation (rolling std dev)
