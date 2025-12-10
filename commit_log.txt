@@ -65,3 +65,4 @@
 53|2025-12-08T13:01:57|add vwap calculation
 54|2025-12-08T21:10:23|add simple moving averages (20,50,200)
 55|2025-12-09T11:05:55|add ema cross signal feature
+56|2025-12-10T11:12:19|add feature column list for ml models
