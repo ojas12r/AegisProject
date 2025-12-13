@@ -73,3 +73,4 @@
 61|2025-12-12T14:18:48|refactor feature engineer class structure
 62|2025-12-12T18:07:32|add bollinger band percentage feature
 63|2025-12-12T21:15:24|optimize feature computation pipeline
+64|2025-12-13T15:36:23|implement atr - average true range
