@@ -86,3 +86,4 @@
 74|2025-12-23T12:59:27|add volume-based features
 75|2025-12-23T22:10:27|implement rate of change (roc)
 76|2025-12-24T14:44:31|add macd indicator (12,26,9)
+77|2025-12-24T17:20:40|implement rsi calculation with ewm
