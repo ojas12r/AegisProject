@@ -85,3 +85,4 @@
 73|2025-12-20T20:27:34|add feature engineering module
 74|2025-12-23T12:59:27|add volume-based features
 75|2025-12-23T22:10:27|implement rate of change (roc)
+76|2025-12-24T14:44:31|add macd indicator (12,26,9)
