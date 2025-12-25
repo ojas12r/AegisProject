@@ -88,3 +88,4 @@
 76|2025-12-24T14:44:31|add macd indicator (12,26,9)
 77|2025-12-24T17:20:40|implement rsi calculation with ewm
 78|2025-12-25T09:11:58|add momentum indicators (5,10,20 day)
+79|2025-12-25T09:46:32|add feature normalization helpers
