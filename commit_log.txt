@@ -90,3 +90,4 @@
 78|2025-12-25T09:11:58|add momentum indicators (5,10,20 day)
 79|2025-12-25T09:46:32|add feature normalization helpers
 80|2025-12-25T16:35:31|add annualized volatility scaling
+81|2025-12-25T21:08:22|fix rsi edge case for zero loss periods
