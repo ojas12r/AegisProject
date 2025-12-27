@@ -91,3 +91,4 @@
 79|2025-12-25T09:46:32|add feature normalization helpers
 80|2025-12-25T16:35:31|add annualized volatility scaling
 81|2025-12-25T21:08:22|fix rsi edge case for zero loss periods
+82|2025-12-27T11:47:30|test xgboost on aapl historical data
