@@ -95,3 +95,4 @@
 83|2025-12-27T13:21:00|fix prediction scaling issues
 84|2025-12-27T13:32:26|fix edge case with insufficient training data
 85|2025-12-27T22:56:49|add fallback predictions for insufficient data
+86|2025-12-29T15:37:30|fix xgboost hyperparameters for finance data
