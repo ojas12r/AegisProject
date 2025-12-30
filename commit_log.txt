@@ -97,3 +97,4 @@
 85|2025-12-27T22:56:49|add fallback predictions for insufficient data
 86|2025-12-29T15:37:30|fix xgboost hyperparameters for finance data
 87|2025-12-29T17:46:37|fix numpy array shape mismatch in lstm
+88|2025-12-30T12:29:58|tune learning rate to 0.05
