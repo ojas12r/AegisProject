@@ -98,3 +98,4 @@
 86|2025-12-29T15:37:30|fix xgboost hyperparameters for finance data
 87|2025-12-29T17:46:37|fix numpy array shape mismatch in lstm
 88|2025-12-30T12:29:58|tune learning rate to 0.05
+89|2025-12-30T13:54:16|add sequence preparation for lstm
