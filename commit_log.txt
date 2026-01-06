@@ -108,3 +108,4 @@
 96|2026-01-05T15:16:38|add model inference pipeline
 97|2026-01-06T09:18:23|optimize xgboost n_estimators to 300
 98|2026-01-06T10:10:52|add ml engine module
+99|2026-01-06T17:35:51|add direction classification output
