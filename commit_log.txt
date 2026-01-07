@@ -109,3 +109,4 @@
 97|2026-01-06T09:18:23|optimize xgboost n_estimators to 300
 98|2026-01-06T10:10:52|add ml engine module
 99|2026-01-06T17:35:51|add direction classification output
+100|2026-01-07T15:41:01|implement standard scaler for feature normalization
