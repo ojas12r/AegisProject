@@ -111,3 +111,4 @@
 99|2026-01-06T17:35:51|add direction classification output
 100|2026-01-07T15:41:01|implement standard scaler for feature normalization
 101|2026-01-09T11:53:11|add xgboost early stopping
+102|2026-01-09T18:32:44|add inverse transform for price predictions
