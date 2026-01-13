@@ -114,3 +114,4 @@
 102|2026-01-09T18:32:44|add inverse transform for price predictions
 103|2026-01-11T11:47:28|add train/test split with time series logic
 104|2026-01-13T09:48:30|fix lstm sequence sliding window
+105|2026-01-13T21:18:15|add regularization params to prevent overfitting
