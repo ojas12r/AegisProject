@@ -113,3 +113,4 @@
 101|2026-01-09T11:53:11|add xgboost early stopping
 102|2026-01-09T18:32:44|add inverse transform for price predictions
 103|2026-01-11T11:47:28|add train/test split with time series logic
+104|2026-01-13T09:48:30|fix lstm sequence sliding window
