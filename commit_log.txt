@@ -119,3 +119,4 @@
 107|2026-01-15T11:02:53|add 5-day price forecast generation
 108|2026-01-15T11:14:16|add colsample and subsample params
 109|2026-01-15T15:24:38|test lstm forecast accuracy
+110|2026-01-16T10:17:39|implement walk-forward training logic
