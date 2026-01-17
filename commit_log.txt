@@ -121,3 +121,4 @@
 109|2026-01-15T15:24:38|test lstm forecast accuracy
 110|2026-01-16T10:17:39|implement walk-forward training logic
 111|2026-01-16T13:04:34|add model confidence score calculation
+112|2026-01-17T16:27:48|implement lstm model architecture
