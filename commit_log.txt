@@ -124,3 +124,4 @@
 112|2026-01-17T16:27:48|implement lstm model architecture
 113|2026-01-18T11:13:36|add model caching between requests
 114|2026-01-20T21:51:50|add feature importance to api response
+115|2026-01-21T11:40:48|add decision endpoint combining all signals
