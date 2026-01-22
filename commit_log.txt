@@ -126,3 +126,4 @@
 114|2026-01-20T21:51:50|add feature importance to api response
 115|2026-01-21T11:40:48|add decision endpoint combining all signals
 116|2026-01-21T15:34:52|fix volatility percentile calculation
+117|2026-01-22T13:48:15|implement market sentiment agent
