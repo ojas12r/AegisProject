@@ -129,3 +129,4 @@
 117|2026-01-22T13:48:15|implement market sentiment agent
 118|2026-01-22T17:44:01|add volume ratio analysis to sentiment agent
 119|2026-01-23T17:23:14|add rsi signal scoring logic
+120|2026-01-24T09:18:58|implement macd crossover detection
