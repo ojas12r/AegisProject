@@ -134,3 +134,4 @@
 122|2026-01-26T11:13:01|add market regime classification logic
 123|2026-01-27T11:47:02|fix sentiment agent edge case with zero volume
 124|2026-01-27T14:12:21|implement volatility regime agent
+125|2026-01-27T15:54:46|add bollinger squeeze detection
