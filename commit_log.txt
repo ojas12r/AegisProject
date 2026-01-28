@@ -136,3 +136,4 @@
 124|2026-01-27T14:12:21|implement volatility regime agent
 125|2026-01-27T15:54:46|add bollinger squeeze detection
 126|2026-01-28T11:12:09|add regime color coding
+127|2026-01-28T11:31:12|fix async gather in orchestrator
