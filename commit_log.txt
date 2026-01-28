@@ -138,3 +138,4 @@
 126|2026-01-28T11:12:09|add regime color coding
 127|2026-01-28T11:31:12|fix async gather in orchestrator
 128|2026-01-28T14:31:34|add simulated news sentiment generation
+129|2026-01-28T20:57:18|add agent result validation
