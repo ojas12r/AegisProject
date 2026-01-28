@@ -135,3 +135,4 @@
 123|2026-01-27T11:47:02|fix sentiment agent edge case with zero volume
 124|2026-01-27T14:12:21|implement volatility regime agent
 125|2026-01-27T15:54:46|add bollinger squeeze detection
+126|2026-01-28T11:12:09|add regime color coding
