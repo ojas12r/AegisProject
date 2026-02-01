@@ -142,3 +142,4 @@
 130|2026-01-30T12:29:01|implement risk recommendation engine
 131|2026-01-30T15:52:33|add cot trace logging
 132|2026-02-01T16:06:56|add agent confidence calibration
+133|2026-02-01T16:14:17|implement agent weight configuration
