@@ -144,3 +144,4 @@
 132|2026-02-01T16:06:56|add agent confidence calibration
 133|2026-02-01T16:14:17|implement agent weight configuration
 134|2026-02-02T09:47:22|add concurrent agent execution with asyncio
+135|2026-02-02T11:07:07|implement vol expansion/contraction detection
