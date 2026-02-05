@@ -146,3 +146,4 @@
 134|2026-02-02T09:47:22|add concurrent agent execution with asyncio
 135|2026-02-02T11:07:07|implement vol expansion/contraction detection
 136|2026-02-03T10:37:24|implement momentum-based sentiment scoring
+137|2026-02-05T11:27:12|add weighted signal aggregation in technical agent
