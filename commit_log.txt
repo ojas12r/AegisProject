@@ -151,3 +151,4 @@
 139|2026-02-05T14:34:34|implement analyze endpoint in fastapi
 140|2026-02-06T20:47:38|add ema cross signal in technical agent
 141|2026-02-06T22:40:46|add multi-agent cot framework
+142|2026-02-07T09:39:54|add signal breakdown to aggregator output
