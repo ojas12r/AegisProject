@@ -153,3 +153,4 @@
 141|2026-02-06T22:40:46|add multi-agent cot framework
 142|2026-02-07T09:39:54|add signal breakdown to aggregator output
 143|2026-02-07T09:58:20|implement technical analysis agent
+144|2026-02-10T11:04:54|implement bollinger band position analysis
