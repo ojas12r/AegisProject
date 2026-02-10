@@ -156,3 +156,4 @@
 144|2026-02-10T11:04:54|implement bollinger band position analysis
 145|2026-02-10T11:44:17|implement extreme volatility override logic
 146|2026-02-10T14:58:44|implement chain-of-thought reasoning output
+147|2026-02-10T20:57:42|add decision aggregator with weighted scoring
