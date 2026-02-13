@@ -157,3 +157,4 @@
 145|2026-02-10T11:44:17|implement extreme volatility override logic
 146|2026-02-10T14:58:44|implement chain-of-thought reasoning output
 147|2026-02-10T20:57:42|add decision aggregator with weighted scoring
+148|2026-02-13T13:10:26|add backtest summary statistics
