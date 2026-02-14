@@ -159,3 +159,4 @@
 147|2026-02-10T20:57:42|add decision aggregator with weighted scoring
 148|2026-02-13T13:10:26|add backtest summary statistics
 149|2026-02-13T16:09:18|implement strategy return computation
+150|2026-02-14T16:22:35|implement signal generation from indicators
