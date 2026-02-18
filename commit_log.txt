@@ -165,3 +165,4 @@
 153|2026-02-16T14:55:43|implement sharpe ratio calculation
 154|2026-02-17T13:37:36|add buy and hold benchmark comparison
 155|2026-02-18T11:27:31|implement equity curve generation
+156|2026-02-18T11:36:03|implement win rate calculation
