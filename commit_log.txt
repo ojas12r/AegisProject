@@ -168,3 +168,4 @@
 156|2026-02-18T11:36:03|implement win rate calculation
 157|2026-02-18T12:54:20|add calmar ratio metric
 158|2026-02-19T16:05:40|add portfolio simulation logic
+159|2026-02-19T21:58:46|fix portfolio value calculation
