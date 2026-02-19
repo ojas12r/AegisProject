@@ -167,3 +167,4 @@
 155|2026-02-18T11:27:31|implement equity curve generation
 156|2026-02-18T11:36:03|implement win rate calculation
 157|2026-02-18T12:54:20|add calmar ratio metric
+158|2026-02-19T16:05:40|add portfolio simulation logic
