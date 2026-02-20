@@ -172,3 +172,4 @@
 160|2026-02-20T10:04:45|optimize equity curve data points
 161|2026-02-20T13:20:47|add annualized return calculation
 162|2026-02-20T15:52:40|add sortino ratio with downside deviation
+163|2026-02-20T17:47:31|fix edge case with empty signal arrays
