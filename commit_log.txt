@@ -169,3 +169,4 @@
 157|2026-02-18T12:54:20|add calmar ratio metric
 158|2026-02-19T16:05:40|add portfolio simulation logic
 159|2026-02-19T21:58:46|fix portfolio value calculation
+160|2026-02-20T10:04:45|optimize equity curve data points
