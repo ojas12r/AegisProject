@@ -170,3 +170,4 @@
 158|2026-02-19T16:05:40|add portfolio simulation logic
 159|2026-02-19T21:58:46|fix portfolio value calculation
 160|2026-02-20T10:04:45|optimize equity curve data points
+161|2026-02-20T13:20:47|add annualized return calculation
