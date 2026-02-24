@@ -178,3 +178,4 @@
 166|2026-02-23T12:16:50|add total trades counter
 167|2026-02-24T11:16:00|add initial capital parameter
 168|2026-02-24T17:15:47|fix drawdown series computation
+169|2026-02-24T23:14:07|implement max drawdown calculation
