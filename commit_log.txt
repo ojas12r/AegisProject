@@ -183,3 +183,4 @@
 171|2026-02-26T14:20:18|implement glow utility classes
 172|2026-02-26T16:34:54|add cot aggregator trace section
 173|2026-02-28T11:36:22|add confidence meter with animated bar
+174|2026-03-03T18:08:31|fix recharts responsive container
