@@ -187,3 +187,4 @@
 175|2026-03-04T11:28:57|implement backtesting panel component
 176|2026-03-04T11:35:27|implement ema overlay on price chart
 177|2026-03-04T14:31:13|implement custom chart tooltip
+178|2026-03-04T15:43:19|implement backend offline state
