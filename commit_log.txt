@@ -211,3 +211,4 @@
 199|2026-03-16T11:02:23|implement buy/sell/hold signal display
 200|2026-03-16T11:17:30|add bollinger band overlay toggle
 201|2026-03-16T11:51:08|implement performance metrics grid
+202|2026-03-16T23:54:01|add market regime indicator with pulse orb
