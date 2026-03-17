@@ -212,3 +212,4 @@
 200|2026-03-16T11:17:30|add bollinger band overlay toggle
 201|2026-03-16T11:51:08|implement performance metrics grid
 202|2026-03-16T23:54:01|add market regime indicator with pulse orb
+203|2026-03-17T11:28:37|add equity curve chart
