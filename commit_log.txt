@@ -215,3 +215,4 @@
 203|2026-03-17T11:28:37|add equity curve chart
 204|2026-03-17T11:53:17|add 1d/1w/1m return indicators
 205|2026-03-17T12:44:49|add xgboost prediction display
+206|2026-03-17T16:34:59|implement custom legend styling
