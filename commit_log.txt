@@ -214,3 +214,4 @@
 202|2026-03-16T23:54:01|add market regime indicator with pulse orb
 203|2026-03-17T11:28:37|add equity curve chart
 204|2026-03-17T11:53:17|add 1d/1w/1m return indicators
+205|2026-03-17T12:44:49|add xgboost prediction display
