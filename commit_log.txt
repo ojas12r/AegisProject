@@ -217,3 +217,4 @@
 205|2026-03-17T12:44:49|add xgboost prediction display
 206|2026-03-17T16:34:59|implement custom legend styling
 207|2026-03-18T21:27:26|add error banner component
+208|2026-03-19T17:41:45|fix tooltip z-index overlap
