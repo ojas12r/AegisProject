@@ -241,3 +241,4 @@
 229|2026-03-27T10:23:26|v1.0.0 production release
 230|2026-03-27T14:01:25|add glow effects and animations to css
 231|2026-03-27T20:33:09|add frontend dockerfile
+232|2026-03-27T21:00:51|final ui polish: spacing and typography
