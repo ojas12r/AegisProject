@@ -243,3 +243,4 @@
 231|2026-03-27T20:33:09|add frontend dockerfile
 232|2026-03-27T21:00:51|final ui polish: spacing and typography
 233|2026-03-28T17:38:46|performance optimization: memoize api calls
+234|2026-03-28T20:56:52|fix nvda price showing pre-split values
