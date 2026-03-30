@@ -245,3 +245,4 @@
 233|2026-03-28T17:38:46|performance optimization: memoize api calls
 234|2026-03-28T20:56:52|fix nvda price showing pre-split values
 235|2026-03-30T14:43:53|implement ticker change and reanalysis flow
+236|2026-03-30T14:59:40|add user agent header to data fetcher
