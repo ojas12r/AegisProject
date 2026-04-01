@@ -248,3 +248,4 @@
 236|2026-03-30T14:59:40|add user agent header to data fetcher
 237|2026-03-31T21:36:41|implement color helpers for decision states
 238|2026-04-01T12:09:36|add docker and docker-compose setup
+239|2026-04-01T13:57:15|upgrade yfinance for accurate price data
