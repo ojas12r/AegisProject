@@ -252,3 +252,4 @@
 240|2026-04-02T09:31:03|implement api client with full typescript types
 241|2026-04-02T11:24:45|fix auto_adjust price split issue in yfinance
 242|2026-04-02T17:46:44|fix mobile responsive layout issues
+243|2026-04-03T14:48:43|fix recharts tooltip styling
