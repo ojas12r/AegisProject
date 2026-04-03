@@ -1,4 +1,8 @@
 AegisProject
+
+
+
+
 A production-grade algorithmic trading system that combines machine learning models with a multi-agent reasoning framework to generate explainable trading signals.
 The system does not simply output a prediction. It runs two independent ML models and three specialized AI agents in parallel, forces them to reason step by step through market conditions, then aggregates their outputs into a single decision with a confidence score and a full chain-of-thought trace you can audit.
 
